@@ -1,6 +1,6 @@
 {
-  "name": "react-native-phone-input",
-  "version": "0.2.4",
+  "name": "react-native-phone-input-sotero",
+  "version": "0.3.4",
   "description": "Phone input box for React Native",
   "main": "lib/index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:thegamenicorus/react-native-phone-input.git"
+    "url": "git@github.com:sotero-tech/react-native-phone-input.git"
   },
   "keywords": [
     "react-native",
@@ -26,15 +26,16 @@
   "dependencies": {
     "google-libphonenumber": "^3.2.2",
     "lodash": "^4.17.4",
-    "prop-types": "^15.5.10"
+    "prop-types": "^15.5.10",
+    "react-native-masked-text": "^1.12.3"
   },
   "peerDependencies": {
     "react-native": ">= 0.25"
   },
-  "author": "Watcharachai Kanjaikaew (https://github.com/thegamenicorus)",
+  "author": "Watcharachai Kanjaikaew (https://github.com/sotero-tech)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/thegamenicorus/react-native-phone-input/issues"
+    "url": "https://github.com/sotero-tech/react-native-phone-input/issues"
   },
-  "homepage": "https://github.com/thegamenicorus/react-native-phone-input"
+  "homepage": "https://github.com/sotero-tech/react-native-phone-input"
 }
